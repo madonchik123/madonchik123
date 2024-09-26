@@ -19,7 +19,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=madonchik123.madonchik123&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=madonchik123.madonchik123"  />
 </div>
 
 ###
