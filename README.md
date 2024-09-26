@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Gamzat! 👋
 
-<!--
-**madonchik123/madonchik123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 16-year-old student from Russia with a passion for web development and data extraction. Here's a bit about me:
 
-Here are some ideas to get you started:
+- 🌐 I enjoy building websites using **Next.js** and **TypeScript**.
+- 🐍 I'm also into **web scraping** with **Python**, gathering data from different sources.
+- 🚀 Currently exploring new frameworks and techniques to improve my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills & Tools:
+- **Frontend**: React, TypeScript, HTML, CSS, JavaScript
+- **Backend**: Node.js, Express
+- **Web Scraping**: Python (BeautifulSoup, Scrapy)
+- **Other Tools**: Git, GitHub, VS Code
+
+Feel free to explore my repositories and reach out if you want to collaborate or have any questions!
+
+---
+
+📫 **How to reach me**: https://t.me/qwerqweasse
